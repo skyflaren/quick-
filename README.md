@@ -1,2 +1,2 @@
-# quick-
-Game
+# quick!
+a short reaction-based game
