@@ -9,7 +9,7 @@ int answer = 0, response = 0;  //answer is the actual answer, and compares to th
 int prevDir = 0, prevColour = 0;  //prevDir and prevColour are to avoid printing an arrow twice, 
 int lives = 3, score = 0;  //lives is to keep track of the user's lives,  score is to keep track of user's score
 
-float arrowX, arrowY;  //arrowX and arrowY are to randomize the position of the arrow a bit
+float arrowX, arrowY;  //arrowX and arrowY are toajhDSJADJK randomize the position of the arrow a bit
 
 boolean exit = false, nextPhase = false, secondPhase = false;  //exit is to leave the program, nextPhase is so you can move on from the splash screen, and secondPhase is so you can move on from instructions
 boolean incDown = false, assignment = true;  //Whether or not the gradient shoudl go up or down  
